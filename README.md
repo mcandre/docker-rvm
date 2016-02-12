@@ -19,6 +19,7 @@ rvm 1.26.11 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
